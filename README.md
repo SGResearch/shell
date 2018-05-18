@@ -1,0 +1,3 @@
+% SGResearch shell
+
+# Introduction
